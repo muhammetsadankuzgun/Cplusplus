@@ -32,7 +32,7 @@ int main()
     
     }
     else {
-    std::cout <<"Yarragı yediniz";
+    std::cout <<"Error";
 
 
 }
